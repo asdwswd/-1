@@ -1,4 +1,3 @@
-```python
 import streamlit as st
 import pandas as pd
 from pathlib import Path
@@ -519,4 +518,3 @@ st.markdown(
     """,
     unsafe_allow_html=True
 )
-```
